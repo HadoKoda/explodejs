@@ -1,0 +1,29 @@
+{
+  "name": "explodejs",
+  "version": "0.1.0",
+  "description": "Develop HTML5 apps explosively.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/HadoKoda/explodejs.git"
+  },
+  "keywords": [
+    "HTML5",
+    "web",
+    "app",
+    "framework"
+  ],
+  "author": "Victor Akinyemi",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/HadoKoda/explodejs/issues"
+  },
+  "homepage": "https://github.com/HadoKoda/explodejs",
+  "dependencies": {
+    "express": "^4.11.2",
+    "grunt": "^0.4.5"
+  }
+}
